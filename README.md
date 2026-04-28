@@ -1,33 +1,43 @@
 # Hi 👋 I'm Rakesh Meesa
 
 🎓 B.Tech CSE (AI) @ Amrita Vishwa Vidyapeetham
-💡 Passionate about AI, ML & Software Development
+💡 Passionate about Artificial Intelligence, Machine Learning & Software Development
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🤖 Working on AI, Machine Learning 
-* 📊 Strong in Python & Data Analysis
-* 🧠 Learning DSA & Java
-* 🚀 Building real-world projects
+* 🤖 Building AI-driven solutions with real-world applications
+* 📊 Strong in Python, Machine Learning & Data Analysis
+* 🧠 Actively improving DSA and Java skills
+* 🚀 Focused on developing scalable and impactful systems
 
 ---
 
 ## 🚀 Projects
 
-* 🔍 Fake Job Detection using XAI
-* 😴 Facial Emotion & Sleep Detection
-* 🔐 Secure IoT Data Transmission
-* 🌳 Merkle Tree Storage System
+* 🔍 Fake Job Detection using Explainable AI (XAI)
+* 😴 Facial Emotion & Sleep Detection (Assistive AI System)
+* 🔐 Secure IoT Data Transmission Mechanism
+* 🌳 Merkle Tree-Based Transaction Storage System
 
-👉 More: https://github.com/rakesh94m?tab=repositories
+👉 Explore more: https://github.com/rakesh94m?tab=repositories
 
 ---
 
 ## 📄 Resume
 
-👉 [View My Resume](https://github.com/rakesh94m/rakesh94m/blob/main/rakesh_resume.pdf)
+👉 [View My Resume](https://github.com/rakesh94m/rakesh94m/raw/main/rakesh_resume.pdf)
+
+---
+
+## 📜 Certifications & Achievements
+
+* 🏆 Presented at **ICRAIC2IT 2025** – International Conference on AI & Computational Intelligence
+* 💼 Tata (Forage) – GenAI Powered Data Analytics Job Simulation
+* 🚀 Google for Startups – Prompt to Prototype
+* ☕ Infosys Springboard – Programming Using Java
+* 🌱 Nestlé – Resilience E-learning
 
 ---
 
