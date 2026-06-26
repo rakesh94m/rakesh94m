@@ -27,7 +27,7 @@
 
 ## 📄 Resume
 
-👉 [View My Resume](https://github.com/rakesh94m/rakesh94m/raw/main/resume_rakes.pdf)
+👉 [View My Resume](https://github.com/rakesh94m/rakesh94m/raw/main/rakesh__resume.pdf)
 
 ---
 
