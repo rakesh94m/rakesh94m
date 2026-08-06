@@ -23,13 +23,6 @@
 
 👉 Explore more: https://github.com/rakesh94m?tab=repositories
 
----
-
-## 📄 Resume
-
-👉 [View My Resume](https://github.com/rakesh94m/rakesh94m/raw/main/rakesh__resume.pdf)
-
----
 
 ## 📜 Certifications & Achievements
 
