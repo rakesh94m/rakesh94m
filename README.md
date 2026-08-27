@@ -1,7 +1,7 @@
 # Hi 👋 I'm Rakesh Meesa
 
 🎓 **B.Tech in Computer Science and Engineering (Artificial Intelligence)** @ Amrita Vishwa Vidyapeetham
-💻 **Software Engineering Intern Candidate** | Passionate about Backend Development & AI Integration
+💻 **Software Engineering** | Passionate about Backend Development & AI Integration
 
 ---
 
