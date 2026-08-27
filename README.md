@@ -38,4 +38,4 @@
 
 * 📧 **Email:** [rakeshmeesa94@gmail.com](mailto:rakeshmeesa94@gmail.com)
 * 🔗 **LinkedIn:** [Rakesh Meesa](https://www.linkedin.com/in/rakesh-meesa-237656308)
-* 👨‍💻 **GitHub:** [rakesh94m](https://github.com/rakesh94m)
+
