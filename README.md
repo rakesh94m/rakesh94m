@@ -23,19 +23,5 @@
 
 👉 **Explore more:** [View all my repositories here](https://github.com/rakesh94m?tab=repositories)
 
----
 
-## 📜 Certifications & Achievements
-
-* 🏅 **Research:** Published two conference papers as 1st author.
-* 💻 **LeetCode 100 Days Badge:** Recognized for consistent daily problem-solving.
-* 🚀 **Google for Startups:** Startup School: Prompt to Prototype.
-* ⚔️ **PromptWars Participant:** Ascent 2026, Scaler School of Technology.
-
----
-
-## 📫 Connect With Me
-
-* 📧 **Email:** [rakeshmeesa94@gmail.com](mailto:rakeshmeesa94@gmail.com)
-* 🔗 **LinkedIn:** [Rakesh Meesa](https://www.linkedin.com/in/rakesh-meesa-237656308)
 
