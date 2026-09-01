@@ -10,8 +10,8 @@
 * 🚀 Focused on architecting scalable, production-ready systems and full-stack software development.
 * ⚙️ Strong foundation in **Java**, **Python**, and backend frameworks like **Spring Boot** and **Flask**.
 * 🤖 Experienced in building end-to-end applications that bridge the gap between AI models and user-facing platforms.
-* 📊 Proficient with databases (**PostgreSQL**, **SQLite**) and core CS concepts like Data Structures & Algorithms, OOP, and DBMS.
-* 🏆 Recognized for consistent problem-solving and algorithmic proficiency.
+* 📊 Proficient with databases (**PostgreSQL**) and core CS concepts like Data Structures & Algorithms, OOP, and DBMS.
+
 
 ---
 
