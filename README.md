@@ -114,15 +114,6 @@ A transaction verification system built by implementing the SHA-256 algorithm en
 
 <sub>`Python` · `Flask` · `SQLite` · `Cryptography`</sub>
 
----
-
-## Currently Building
-
-🚀 **NEXUS** — A full-stack campus collaboration platform focused on capability-based student discovery, intelligent skill matching, and AI-powered career roadmaps.
-
-`Spring Boot` · `React` · `PostgreSQL` · `JWT` · `Google Gemini`
-
----
 
 <div align="center">
 
