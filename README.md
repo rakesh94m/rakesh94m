@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/rakesh-meesa-237656308">
+<a href="https://www.linkedin.com/in/rakesh-meesa">
   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0d0d0d?style=flat-square&logo=linkedin-white&logoColor=0EA5E9" alt="LinkedIn"/>
 </a>
 &nbsp;
